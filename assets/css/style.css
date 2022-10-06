@@ -82,6 +82,9 @@ section {
     height: 600px;
     position: relative;
     align-items: flex-start;
+    background-image: url("../images/hero-bg.jpg");
+    background-size: cover;
+    background-position: center;
     background-attachment: fixed;
     background-position: 80%;
 }
